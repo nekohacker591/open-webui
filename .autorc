@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "nekohacker591",
+  "repo": "open-webui",
+  "name": "nekohacker591",
+  "email": "michaelbramble22004@gmail.com",
+}
